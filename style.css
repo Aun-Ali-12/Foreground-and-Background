@@ -1,0 +1,19 @@
+#main-title {
+  color: blue;
+  background-color: hsl(210, 100%, 50%);
+  font-size: 50px;
+}
+#color-box {
+  background-color: yellow;
+  color: coral;
+  font-size: 50px;
+}
+.intro-paragraph {
+  color: #8a2be2;
+  font-size: 50px;
+}
+.unstyled-para {
+  backdrop-filter: blur(3px);
+  background-color: rgba(0, 128, 0, 0.3);
+  font-size: 50px;
+}
